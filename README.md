@@ -52,7 +52,7 @@ This activity uses the BBBC018 fluorescence image dataset of HT29 human colon-ca
 
 <img width="1364" height="724" alt="Screenshot 2026-10-20 162436" src="https://github.com/user-attachments/assets/d724252b-75ba-4525-ab70-779eeff834c9" />
 
-*Figure 7. Open Analyze then go to tools and click ROI Manager. Press T to add the region to ROI Manager, then choose analyze then measure (or press M). Repeat for all five cells. The Results window should contain five rows. Save the measurements as csv.*
+*Figure 7. Open Analyze then go to tools and click ROI Manager. Press T to add the region to ROI Manager, then choose analyze then measure (or press M). Repeat for all five cells. The Results window should contain five rows. Save the measurements in csv.*
 
 ## Plot
 
