@@ -34,7 +34,7 @@ This activity uses the BBBC018 fluorescence image dataset of HT29 human colon-ca
 *Figure 3. Selecting File → Import → Bio-Formats in Fiji to import microscopy images for further analysis.
 
 
-<img width="557" height="415" alt="image" src="https://github.com/user-attachments/assets/c8c75723-8d89-40d9-9643-297458855929" />
+<img width="664" height="479" alt="image" src="https://github.com/user-attachments/assets/1a066543-6bf3-4bbe-a619-1fcb7f629377" />
 
 *Figure 4. The file selection window in Fiji, where the 17673-actin file is selected from the BBBC018_v1_images folder for further image analysis.*
 
