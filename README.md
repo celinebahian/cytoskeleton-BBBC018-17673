@@ -44,3 +44,7 @@ This activity uses the BBBC018 fluorescence image dataset of HT29 human colon-ca
 
 **Figure.6**
 
+<img width="1364" height="724" alt="Screenshot 2026-10-20 162436" src="https://github.com/user-attachments/assets/d724252b-75ba-4525-ab70-779eeff834c9" />
+
+**Figure.7 
+
