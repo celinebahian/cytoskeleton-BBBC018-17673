@@ -29,7 +29,7 @@ This activity uses the BBBC018 fluorescence image dataset of HT29 human colon-ca
 *Figure 2. Open the Fiji application. The Extract All option was selected to continue the installation. The extraction window allows the user to choose where the Fiji files will be saved. The Extract button was used to extract the files into the selected folder.*
 
 
-<img width="1364" height="721" alt="image" src="https://github.com/user-attachments/assets/cc985bd3-03a4-4ee9-975d-a9fe1a04d7cf" />
+<img width="642" height="767" alt="image" src="https://github.com/user-attachments/assets/9e8c726e-7427-4893-9c59-e39576b65a80" />
 
 *Figure 3. Selecting File → Import → Bio-Formats in Fiji to import microscopy images for further analysis.
 
