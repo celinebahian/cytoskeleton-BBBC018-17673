@@ -2,7 +2,7 @@
 
 **Student ID:** 202303426
 
-**Phenotype:** Prophase
+**Phenotype:** Long projections
 
 **Image-field ID:** 17673
 
@@ -56,29 +56,30 @@ This activity uses the BBBC018 fluorescence image dataset of HT29 human colon-ca
 
 ## Plot
 
-<img width="900" height="650" alt="actin_intensity" src="https://github.com/user-attachments/assets/ec0f2307-15e6-4a80-987d-070cb73e8019" />
+<img width="900" height="650" alt="actin_intensity" src="https://github.com/user-attachments/assets/43ab27ed-3985-4118-a505-5efa7ff33531" />
 
-*Figure 8. Actin Signal Intensity of Prophase Cells. The graph shows the actin intensity of five cells. Cell 2 has the highest intensity, while Cell 4 has the lowest. This shows that the actin intensity varies among the cells.*
+*Figure 8. Actin fluorescence intensity of five selected cells (17673). The bar graph shows the mean actin fluorescence intensity of five selected cells. Cell 2 has the highest intensity, followed by Cell 1 and Cell 5, while Cell 4 has the lowest intensity. These differences indicate variation in actin signal among the selected cells.*
 
 
-<img width="900" height="650" alt="area_vs_circularity" src="https://github.com/user-attachments/assets/d6145579-3b68-48ba-9532-69cd6c97b8a7" />
+<img width="900" height="650" alt="area_vs_circularity" src="https://github.com/user-attachments/assets/441a3588-b944-4da9-8503-ddc57ab6587f" />
 
-*Figure 9. Relationship Between Cell Area and Circularity During Prophase. The graph shows the relationship between cell area and circularity in five cells. Cells 2 and 5 have smaller areas and higher circularity, while Cells 3 and 4 have larger areas and lower circularity. This suggests that larger cells tend to have lower circularity in the observed data.*
+*Figure 9. Cell area versus circularity of five selected cells with the long-projections phenotype (17673). The scatter plot shows the relationship between cell area and circularity. Cells 3 and 4 have larger areas but lower circularity, indicating more elongated or irregular shapes. In contrast, Cells 2 and 5 have higher circularity and smaller areas, suggesting more compact shapes. These measurements show morphological variation among the five selected cells.*
 
 ## Explanation for the results
 
 **1. Which specific phenotype did you choose, and what visible features support that choice?**
 
-I chose the prophase phenotype because the cells showed differences in shape, size, and actin fluorescence intensity.
+I chose long projections because some cells have elongated shapes with visible extensions. These features make the cells look longer and less round.
 
 **2. Were your five cells mostly round or elongated? Refer to your circularity and aspect-ratio results.**
 
-The five cells showed differences in shape. Cells 2 and 5 were more round because they had higher circularity values, while Cells 1, 3, and 4 were less round. The aspect-ratio results can also help determine whether the cells were elongated.
+My five cells showed a mix of round and elongated shapes. Cells 3 and 4 had lower circularity, while Cells 2 and 5 were rounder based on their higher circularity values.
 
 **3. What role does actin play in maintaining cell shape and in cell movement (Karp Chapter 9)?**
 
-Actin helps maintain cell shape by forming part of the cytoskeleton. It also supports cell movement by allowing the cell membrane to change shape and form extensions. Actin works with other proteins to help cells move.
+Actin helps maintain the shape of the cell and supports its outer part. It also helps cells move by forming extensions and producing the force needed for movement.
 
 **4. Why can a single fixed fluorescence image NOT show how fast a cell moves?**
 
-A single fixed fluorescence image shows the cell at only one point in time. It cannot show changes in the cell's position or movement. To measure cell speed, images must be taken at different time points so that changes in position can be compared.
+A single fixed image only shows the cell at one point in time. To measure how fast a cell moves, we need to observe its position over time using live-cell imaging.
+
